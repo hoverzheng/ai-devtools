@@ -200,6 +200,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 - [README-AI](https://github.com/eli64s/readme-ai) — Automated README.md file generator, powered by large language model APIs.
 - [Supacodes](https://www.supacodes.com) — An AI tool that automates writing & updating code documentation in Github
 - [CodexAtlas](https://codedocumentation.app/) — Automated code and API documentation using latest AI models
+- [swimm](http://swimm.ai)  - 代码文档生成工具
 
 ## OpenAI plugins
 
